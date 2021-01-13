@@ -6,7 +6,8 @@ namespace Primer_consola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Buenas noches Natalia!");
         }
     }
 }
+ 
